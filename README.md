@@ -8,8 +8,7 @@ Com o **PetMonitor**, tutores e veterinários podem monitorar frequência cardí
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![License](https://img.shields.io/badge/licença-MIT-blue)
-![Platform](https://img.shields.io/badge/plataforma-mobile%20%26%20web-green)
-![Build](https://img.shields.io/github/actions/workflow/status/<usuario>/PetMonitor/ci.yml?label=build)
+![Platform](https://img.shields.io/badge/plataforma-mobile-green)
 
 </div>
 
@@ -29,8 +28,6 @@ O **PetMonitor** funciona como um *Apple Watch para pets*, coletando e analisand
 - **Principais funcionalidades:**
   - Monitoramento contínuo da saúde dos animais.
   - Organização e categorização de informações clínicas.
-  - Relatórios semanais automáticos enviados por e-mail.
-  - Integração com autenticação via **Google** e **GitHub (OAuth)**.
 
 ---
 
@@ -46,17 +43,11 @@ O **PetMonitor** funciona como um *Apple Watch para pets*, coletando e analisand
 
 ---
 
-## 🧰 Tecnologias Utilizadas
-
-| Camada | Tecnologias sugeridas |
-|:-------|:----------------------|
-| **Backend** | Node.js / NestJS / FastAPI / Spring Boot |
-| **Frontend** | React / Vue / Svelte |
-| **Banco de Dados** | PostgreSQL / SQLite |
-| **CI/CD** | GitHub Actions |
-| **Autenticação** | OAuth 2.0 / JWT |
-| **Infraestrutura** | Docker / Docker Compose / AWS ou Render |
-| **Notificações** | Firebase Cloud Messaging (FCM) / Email Service |
+## 🛠️ Tecnologias Utilizadas
+- Kotlin (Android)
+- Firebase (banco de dados e autenticação)
+- API de GPS e sensores de saúde
+- GitHub (versionamento)
 
 ---
 
